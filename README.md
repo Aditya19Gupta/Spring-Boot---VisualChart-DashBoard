@@ -14,7 +14,7 @@
     <li style="font-weight: bolder;">Create database in MySQL----- <br> import data file from db folder and run</li>
     <li style="font-weight: bolder;"> Change db password and link according to system--- from application.properties file</li>
     <li style="font-weight: bolder; font-size:.8rem">Run the project</li>
-    <li></li>
+   
 </ul>   
     
     
