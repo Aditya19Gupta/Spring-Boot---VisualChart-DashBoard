@@ -1,9 +1,9 @@
-<b>Tech Stacks Used</b> :-
-    1. Java
-    2. Spring Boot
-    3. Google Chart Lib
-    4. MySQL as a DB
-    5. JS and jQuery
-    6. AJAX
-    7. Spring MVC
-    8. Apache Tile framework
+<b>Tech Stacks Used</b> :- <br>
+    1. Java<br>
+    2. Spring Boot<br>
+    3. Google Chart Lib<br>
+    4. MySQL as a DB<br>
+    5. JS and jQuery<br>
+    6. AJAX<br>
+    7. Spring MVC<br>
+    8. Apache Tile framework<br>
