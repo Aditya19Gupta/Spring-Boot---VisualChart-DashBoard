@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+
+
+	<definition name="not-found-error-page"
+		template="/WEB-INF/views/not-found-error.jsp">
+		<put-attribute name="title"
+			value="Not Found" />
+	</definition>
+
+	<definition name="dashboard"
+				template="/WEB-INF/views/dashboard/dashboard.jsp">
+		<put-attribute name="title"
+					   value="Dashboard" />
+	</definition>
+
+	<definition name="error-page"
+				template="/WEB-INF/views/error.jsp">
+	</definition>
+
+
+
+
+
+</tiles-definitions>
